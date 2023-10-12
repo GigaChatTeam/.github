@@ -3,6 +3,7 @@ GigaChat project is an open-source free social platform, written in native code 
 
 ## TODO:
 * Compose TODO
+* Explain RTCS message packages to everyone because no one understands them
 
 # Our current tasks:
 * Create list of commands for the RTCD server
